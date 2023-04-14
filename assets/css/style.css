@@ -162,6 +162,10 @@ button {
     border-radius: 28px;
 }
 
+button:hover {
+    background-color: hsl(224, 35%, 15%);
+}
+
 @media screen and (max-width: 770px) {
     .wrapper {
         display: block;
